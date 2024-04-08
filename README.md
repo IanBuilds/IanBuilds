@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IanBuilds 
-- I am a recent college graduate looking to get into the software development industry.
+- I am a college graduate looking to get into the software development industry.
 - I graduated from Wilkes University, Wilkes-Barre PA with a major in Computer Information Systems
 - I'm currently working on developing my python and web development skills
 - Contact Info:
