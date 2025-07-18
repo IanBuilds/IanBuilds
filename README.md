@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IanBuilds 
-- I am a college graduate looking to get into the software development industry.
-- I graduated from Wilkes University, Wilkes-Barre PA with a major in Computer Information Systems
-- I'm currently working on developing my python and web development skills
+- B.S Computer Information Systems from Wilkes University
+- Currently employed as a back-end developer
 - Contact Info:
 - ian.bartlow@gmail.com
   
